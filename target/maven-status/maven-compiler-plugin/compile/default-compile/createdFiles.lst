@@ -1,0 +1,15 @@
+versus/interfaces/Player.class
+board/Pieces.class
+move/Player7.class
+move/Move.class
+evolution/CustomFormatter.class
+evolution/Individual.class
+board/Bitboard.class
+evolution/God.class
+evolution/CustomFormatter$MyCustomFormatter.class
+move/MoveSelector.class
+board/Parser.class
+evolution/Population.class
+move/TTEntry.class
+move/MoveGenerator.class
+move/Type.class
