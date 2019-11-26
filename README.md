@@ -111,4 +111,4 @@ Using NegaScout we can calculate almost 1/3 more nodes than with NegaScout and n
 
 During the whole contest we could decrease our computation time and always need equal or less time than the average other groups.
 
-<img src="https://github.com/Annabelita/Game_AI_Java/blob/master/images/comp_NM.png" width="900">
+<img src="https://github.com/Annabelita/Game_AI_Java/blob/master/images/comparison.png" width="900">
