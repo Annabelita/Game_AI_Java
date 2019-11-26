@@ -1,7 +1,13 @@
+
 # Projekt AI - Murus Gallicus AI
 
 This project was about implementing a Murus Gallicus AI for a study project in the field of symbolic artifical intelligence. The code is in Java. The project was completed within 3 months. 
 
+## Prequeries
+Versus System Package must be installed in order to use the contest environment. 
+
+<br>
+<br>
 
 ## Build the project
 ```
