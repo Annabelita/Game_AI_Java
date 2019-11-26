@@ -1,8 +1,9 @@
-
 # Projekt AI - Murus Gallicus AI
 
 This project was about implementing a Murus Gallicus AI for a study project in the field of symbolic artifical intelligence. The code is in Java. The project was completed within 3 months. 
 
+<br>
+<br>
 ## Prequeries
 Versus System Package must be installed in order to use the contest environment. 
 
@@ -14,6 +15,8 @@ Versus System Package must be installed in order to use the contest environment.
 mvn build
 ```
 
+<br>
+<br>
 
 ## Code
 - The code can be found in [src/main/java](https://github.com/Annabelita/Game_AI_Java/tree/master/src/main/java).
@@ -64,3 +67,5 @@ The folder __Montecarlo__  contains our (not complete) MCTS-algorithm.
 - __State.java__: Class showing the win rate of a node
 - __Tree.java__: Class for Searchtree
 - __UCT.java__: Algorithm determing the next move
+
+
