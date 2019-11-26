@@ -69,3 +69,46 @@ The folder __Montecarlo__  contains our (not complete) MCTS-algorithm.
 - __UCT.java__: Algorithm determing the next move
 
 
+<br>
+<br>
+
+## Performance & Analysis
+
+### Comparison NegaMax, NegaScout & NegaScout with Transposition Tables
+
+We started the project implementing NegaMax in order to search the game tree. 
+
+Later we switched to NegaScout. Finally we added Transposition Tabes. 
+
+The following plot shows the increased performance in each iteration. 
+
+The x-axis shows the depth in which we searched. 
+
+The y-axis shows the amount created nodes. 
+
+<img src="https://github.com/Annabelita/Game_AI_Java/blob/master/images/comp_NM.png" width="350">
+
+<br>
+<br>
+
+### Speedup using Transposition Tables
+
+The x-axis shows the depth in which we searched. 
+
+The y-axis shows the amount created nodes.
+
+The upper plot shows the computation time for each depth. The plot below shows the amount of computed nodes. 
+
+Using NegaScout we can calculate almost 1/3 more nodes than with NegaScout and need less than 50% of the time. 
+
+<img src="https://github.com/Annabelita/Game_AI_Java/blob/master/images/speedup.png" width="350">
+
+
+<br>
+<br>
+
+### Contest Results Comparison
+
+During the whole contest we could decrease our computation time and always need equal or less time than the average other groups.
+
+<img src="https://github.com/Annabelita/Game_AI_Java/blob/master/images/comp_NM.png" width="350">
