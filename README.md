@@ -115,4 +115,4 @@ The upper plot shows our minimum computation time for each milestone.
 
 The plot below compares our average computation time to the average computation time of the other groups. 
 
-<img src="https://github.com/Annabelita/Game_AI_Java/blob/master/images/comparison.png" width="500">
+<img src="https://github.com/Annabelita/Game_AI_Java/blob/master/images/comparison.png" width="500"> 
